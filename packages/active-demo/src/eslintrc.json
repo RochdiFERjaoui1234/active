@@ -1,0 +1,6 @@
+{
+  "plugins": ["active-eslint"],
+  "rules": {
+    "active-eslint/no-dangerous-jsx": "error"
+  }
+}

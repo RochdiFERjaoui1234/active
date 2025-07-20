@@ -1,0 +1,12 @@
+{
+  "name": "active-eslint",
+  "version": "1.0.0",
+  "main": "rules/no-dangerous-jsx.js",
+  "keywords": ["eslint", "plugin"],
+  "eslintConfig": {
+    "plugins": ["active-eslint"],
+    "rules": {
+      "active-eslint/no-dangerous-jsx": "error"
+    }
+  }
+}
